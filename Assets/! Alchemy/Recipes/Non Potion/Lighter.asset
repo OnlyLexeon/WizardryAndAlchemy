@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c89850b7988552c43a3c390d78a44fe5, type: 3}
+  m_Name: Lighter
+  m_EditorClassIdentifier: 
+  recipeName: Lighter
+  ingredients:
+  - {fileID: 11400000, guid: b21746950deb5184fba073bf5af4ec06, type: 2}
+  - {fileID: 11400000, guid: b044b8d593468c04a80d4d54866862c3, type: 2}
+  - {fileID: 11400000, guid: 09e87c3c3a45a744789148883d26a0c1, type: 2}
+  icon: {fileID: 21300000, guid: 62150f308e49cdd42b042450e1bd03a9, type: 3}
+  description: 'What is this strange object?
+
+
+    Filled with clear oil, it is theorised
+    that the combination of Amber and Iron, infused with the black magic of the pot,
+    and a mana crystal, spawns a thingamajig from the vast future.
+
+
+    Pulling
+    the trigger surrounded by its blue body will ignite the object''s finger tip,
+    releasing its inner oil which provides fuel for its finger flame breath.'
+  defaultDuration: 0
+  defaultFrequency: 0
+  defaultIntensity: 0
+  delayedEffect: 0
+  potionType: 0
+  liquidMaterial: {fileID: 0}
+  isShaderEffect: 0
+  isNonPotion: 1
+  objectToSpawn: {fileID: 4696837776546396960, guid: 8ef8ba75795aea248b42d5a24ac41b9e,
+    type: 3}
